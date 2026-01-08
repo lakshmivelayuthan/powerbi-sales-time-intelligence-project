@@ -41,3 +41,13 @@ The report is designed to support business decision-making by comparing current 
 ## Data Source
 - SQL database (data populated using INSERT statement)
 ---
+## Dashboard Screenshots
+
+### Sales Overview
+![Sales Overview](screenshots/sales overview.jpg)
+
+### YOY Analysis
+![YOY Analysis](screenshots/YOY Analysis.jpg)
+
+### Advanced Time Intelligence
+![Advanced Time Intelligence](screenshots/Advanced Time Intelligence.jpg)
